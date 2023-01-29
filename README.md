@@ -1,6 +1,5 @@
 # Red Black Tree
 ## Implementation Red Black Tree data structure
-providing (insert, delete, search, contain, getRoot, isEmpty, clear)
 ![1](https://user-images.githubusercontent.com/95590176/215347735-88e9cacd-eb85-4587-aab2-5f025390a98f.jpg)
 ## Sample Runs
 ![2](https://user-images.githubusercontent.com/95590176/215347736-507deb5b-2aa2-4b14-8288-335e499c2136.jpg)
